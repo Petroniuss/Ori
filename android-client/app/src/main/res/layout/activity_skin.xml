@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/skin_frame_layout"
+    android:scrollbars="vertical"
+    android:background="@drawable/bg_6"
+    >
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/skin_recycler_view"
+        android:scrollbars="vertical"
+        android:background="@drawable/bg_6"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:textColor="@color/colorWhite"
+        android:textSize="50sp"
+        android:textAlignment="center"
+        android:fontFamily="@font/luckiest_guy"
+        android:text="Pick\n your\n skin!" />
+
+</FrameLayout>
