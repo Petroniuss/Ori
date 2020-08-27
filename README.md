@@ -12,6 +12,8 @@ There are few custom skins featuring the republicans and democrats from 2016 USA
 
 [play 🔥🔥🔥](https://appetize.io/app/pru5x7yhqyfym09f3135q5870m?device=nexus5&scale=100&orientation=portrait&osVersion=10.0)
 
+Note that if server had been inactive for few hours finding multiplayer game may fail - in that case just retry (server should be awoken within 15 seconds). 
+
 ## Apk
 
 If you wish to play it on your phone here is downloadable [apk file ⛈](./android-client/release/app-release.apk)
