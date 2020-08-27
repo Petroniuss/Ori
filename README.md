@@ -8,7 +8,7 @@ There are few custom skins featuring the republicans and democrats from 2016 USA
 
 ![20200301-141510](https://user-images.githubusercontent.com/31375809/75626606-18273c00-5bc9-11ea-88de-ea8097681ace.gif)
 
-## Demo hosted on the website
+## Demo hosted on some website
 
 [play 🔥🔥🔥](https://appetize.io/app/pru5x7yhqyfym09f3135q5870m?device=nexus5&scale=100&orientation=portrait&osVersion=10.0)
 
