@@ -21,3 +21,9 @@ I haven't deployed the application to google store since they charge 25\$ for cr
 ## Techonlogies
 
 I have used good old java to create android client and spring-boot on the backend to setup some sockets.
+
+## Screenshots
+
+![Screenshot_20200301-140538](https://user-images.githubusercontent.com/31375809/75626553-a222d500-5bc8-11ea-9479-b648b6191470.jpg?s=10)
+![Screenshot_20200301-140845](https://user-images.githubusercontent.com/31375809/75626535-8ae3e780-5bc8-11ea-9781-ea1c8ff3d0ab.jpg?s=10)
+![Screenshot_20200301-141009](https://user-images.githubusercontent.com/31375809/75626542-9800d680-5bc8-11ea-9598-1517519842a6.jpg?s=10)
