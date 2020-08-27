@@ -20,7 +20,7 @@ I haven't deployed the application to google store since they charge 25\$ for cr
 
 ## Techonlogies
 
-I have used good old java to create android client and spring-boot on the backend to setup some sockets.
+I have used good old java to create the android client and spring-boot on the backend to setup some sockets.
 
 ## Screenshots
 
